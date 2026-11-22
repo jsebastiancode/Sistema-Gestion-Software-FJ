@@ -1,0 +1,23 @@
+2026-11-21 22:07:46,186 - INFO - Cliente registrado: Ana
+2026-11-21 22:10:46,287 - INFO - Cliente registrado: Ana
+2026-11-21 22:10:57,589 - INFO - Servicio creado: Sala A (S01)
+2026-11-21 22:11:08,002 - INFO - Cliente registrado: Ana
+2026-11-21 22:11:08,002 - INFO - Servicio creado: Portatil (E01)
+2026-11-21 22:11:08,002 - INFO - Reserva R01 creada para Ana - Servicio: Portatil
+2026-11-21 22:11:08,002 - INFO - Reserva R01 confirmada por un total de $65,450.00.
+2026-11-21 22:11:32,181 - INFO - Cliente registrado: Carlos Perez
+2026-11-21 22:11:32,181 - INFO - Cliente registrado: Maria Lopez
+2026-11-21 22:11:32,182 - ERROR - El nombre no puede estar vacío.
+2026-11-21 22:11:32,182 - INFO - Servicio creado: Sala de reuniones (S001)
+2026-11-21 22:11:32,189 - INFO - Servicio creado: Video Beam (E001)
+2026-11-21 22:11:32,189 - INFO - Servicio creado: Asesoría informática (A001)
+2026-11-21 22:11:32,189 - ERROR - La tarifa base debe ser un número mayor que cero.
+2026-11-21 22:11:32,189 - INFO - Reserva R001 creada para Carlos Perez - Servicio: Sala de reuniones
+2026-11-21 22:11:32,189 - INFO - Reserva R001 confirmada por un total de $107,100.00.
+2026-11-21 22:11:32,189 - ERROR - La duración debe ser un número positivo.
+2026-11-21 22:11:32,189 - INFO - Reserva R003 creada para Maria Lopez - Servicio: Video Beam
+2026-11-21 22:11:32,189 - INFO - Reserva R003 confirmada por un total de $95,000.00.
+2026-11-21 22:11:32,189 - INFO - Reserva R003 cancelada.
+2026-11-21 22:11:32,189 - ERROR - La reserva R003 ya se encuentra cancelada.
+2026-11-21 22:11:32,190 - INFO - Finalización de consulta de clientes.
+2026-11-21 22:11:32,190 - INFO - Ejecución del sistema finalizada.
